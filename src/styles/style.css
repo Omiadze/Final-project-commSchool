@@ -349,12 +349,29 @@ footer {
 .social-media a img{ 
   width: 50px;
 }
+/* add style to desc img  */
+.desc-img{
+  width: 500px;
+}
 @media only screen and (max-width: 1316px) {
   .section-1-div{
     align-items: center;
   }
   .item-div{
     flex-basis: 50%;
+  }
+  .desc-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5%;
+
+  }
+  .desc-info{
+    gap: 30px;
+  }
+  .desc-img{
+    width: 300px;
   }
 }
 
@@ -412,6 +429,17 @@ footer {
     align-items: center;
     text-align: center;
     gap: 10px;
+  }
+  .desc-container{
+    flex-direction: column;
+  }
+  .desc-info{
+    margin-top: 20px;
+    width: 60%;
+    text-align: center;
+  }
+  .desc-img{
+    width: 250px;
   }
 }
 
