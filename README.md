@@ -6,7 +6,7 @@ Welcome to my online store project! This README.md provides an overview of the p
 
 Upon entering the site, users will encounter the following features:
 
-- **Landing Page**: Users will be greeted by a visually appealing landing page showcasing various products through a banner or slider.
+- **Landing Page**: Users will be greeted by a visually appealing landing page showcasing various products.
 - **Frequently Sold Products**: A section displaying a list of frequently sold products will help users explore popular items quickly.
 - **Additional Pages**:
   - **Checkout Page**: Users can proceed to purchase selected products.
