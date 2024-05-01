@@ -29,7 +29,7 @@ Here are the technical aspects of the project:
 
 ## Live Site
 
-Visit my live site [here](https://getadblock.com/en/update/latest/?f=f&version=6.0.0&u=5bb4jpid23151666&bc=10&rt=0) to experience the online store firsthand!
+Visit my live site [[here]](https://main--lucent-seahorse-810ebc.netlify.app/index.html) to experience the online store firsthand!
 
 ## Author
 
